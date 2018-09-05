@@ -13,6 +13,7 @@ The program consists of the main program:
 and two auxiliary programs: 
 
 •	GRANETA_drift for analysis of the daily transportation drift and
+
 •	GRANETA_ETC for automated interpolation of tidal parameters from a grid of synthetic tidal parameters, prediction of the Earth, ocean and pole tide reductions using PREDICT software from ETERNA package (Wenzel, 1996) and creation of new data files based on the reductions from PREDICT.
 
 The program is designed for adjustment of gravity networks, but it can also be used for the estimation of the corrections of calibration constants based on measurements on calibration line or system, as well as the estimation of the linear vertical gravity gradients.
