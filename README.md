@@ -4,7 +4,6 @@ A MATLAB-based Program for GRAvity NETwork Adjustmetn
 The program performs the least squares adjustment of Scintrex CG-3/3M and CG-5 gravity measurements, according to procedures and adjustment model described in:
 
 Repanić, M. 2019. Optimal Adjustment Models of Scintrex CG-3M Gravimeter Measurements with Respect to the Most Significant Instrumental Error Influences. Doctoral thesis. Ljubljana, University of Ljubljana: pp.xxx.
-
 Supervisor: Assist. Prof. Miran Kuhar, Ph.D.; Co-advisor: Assist. Prof. Polona Pavlovčič Prešeren, Ph.D.
 
 The program consists of the main program:
